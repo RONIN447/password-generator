@@ -1,0 +1,1 @@
+ This basic password generator allows users to specify the length of the password and includes options for uppercase letters, lowercase letters, numbers, and special characters with allowing an option to copy the password also.
